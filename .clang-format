@@ -1,0 +1,7 @@
+---
+Language: Cpp
+BasedOnStyle: Mozilla
+ColumnLimit: 120
+AlwaysBreakAfterDefinitionReturnType: None
+AlwaysBreakAfterReturnType: None
+...
