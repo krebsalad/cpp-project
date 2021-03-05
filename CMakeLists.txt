@@ -5,6 +5,9 @@ project(cpp-project) # change name for every project
 # setup compiler
 add_compile_options(-std=c++17 -Ofast -Wall -Wextra)
 
+include_directories(
+        include
+)
 
 add_executable(run
         main.cpp
